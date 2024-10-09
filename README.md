@@ -14,6 +14,8 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 
 # Testcontainers and AI
 
+- [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
+
 
 ## Testcontainers Cloud
 
