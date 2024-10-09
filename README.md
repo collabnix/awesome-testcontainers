@@ -12,6 +12,20 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 -  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
 
+## Languages
+
+- [.NET](https://dotnet.testcontainers.org/)
+- [Go](https://golang.testcontainers.org/)
+- [Java](https://java.testcontainers.org/)
+- [Node.js](https://node.testcontainers.org/)
+- [Clojure](https://cljdoc.org/d/clj-test-containers/clj-test-containers/)
+- [Elixir](https://github.com/testcontainers/testcontainers-elixir)
+- [Haskell](https://github.com/testcontainers/testcontainers-hs)
+- [Python](https://testcontainers-python.readthedocs.io/en/latest/)
+- [Ruby](https://github.com/testcontainers/testcontainers-ruby)
+- [Rust](https://docs.rs/testcontainers/latest/testcontainers/)
+- [Scala](https://github.com/testcontainers/testcontainers-scala/)
+
 ## Testcontainers and AI
 
 - [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
@@ -27,23 +41,17 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
 
 
-
 ## Testcontainers and Kubernetes
 
 - [Kindcontainers](https://github.com/dajudge/kindcontainer)
 - [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
-- 
+  
 
 ## Integrations
 
 - [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
 
-## Module
 
 
-# Blogs
-
-
-## Testcontainers YouTube Videos 
 
 
