@@ -15,6 +15,9 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 # Testcontainers and AI
 
 
+## Testcontainers Cloud
+
+- [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
 
 
 ## Integrations
