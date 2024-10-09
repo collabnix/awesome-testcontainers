@@ -39,10 +39,14 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel)
 - [How to Use Testcontainers on Jenkins CI](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
 - [Running Testcontainers Tests Using GitHub Actions and Testcontainers Cloud](https://www.docker.com/blog/running-testcontainers-tests-using-github-actions/)
-
+- [Running Testcontainers Tests Using Azure Pipelines](https://www.docker.com/blog/running-testcontainers-tests-using-azure-pipelines/)
 
 ## Testcontainers Cloud
 - [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
+
+## Testcontainers Desktop
+
+- [Connecting to Testcontainers Services using Testcontainers Desktop](https://www.docker.com/blog/connecting-to-testcontainers-services-using-testcontainers-desktop/)
 
 
 ## Testcontainers and Kubernetes
