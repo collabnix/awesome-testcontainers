@@ -1,4 +1,4 @@
-# Awesome Docker Testcontainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Testcontainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This is a curated list of Docker Testcontainers related resources. It is not an official list, but a community effort to help people find the best stuff for Testcontainers in 2024 and beyond. 
 
