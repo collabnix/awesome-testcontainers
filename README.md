@@ -47,7 +47,10 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 - [Kindcontainers](https://github.com/dajudge/kindcontainer)
 - [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
-  
+
+## Testcontainers and .NET
+
+- [How to Create a Testcontainers for .NET Module for Wider Ecosystem](https://www.docker.com/blog/how-to-create-a-testcontainers-for-net-module-for-wider-ecosystem/)
 
 ## Integrations
 
@@ -57,4 +60,4 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 ## Blogs
 
 - [Testcontainers: Testing with Real Dependencies](https://www.docker.com/blog/testcontainers-testing-with-real-dependencies/)
-
+- [Developing Resilient Applications with Toxiproxy and Testcontainers](https://www.docker.com/blog/developing-resilient-applications-with-toxiproxy-and-testcontainers/)
