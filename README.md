@@ -52,6 +52,14 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 - [How to Create a Testcontainers for .NET Module for Wider Ecosystem](https://www.docker.com/blog/how-to-create-a-testcontainers-for-net-module-for-wider-ecosystem/)
 
+## Testcontainers and Go
+
+- [Creating Modules in Testcontainers for Go](https://www.docker.com/blog/creating-modules-in-testcontainers-go/)
+
+## Testcontainers and Spring 
+
+- [Spring Boot Application Testing and Development with Testcontainers](https://www.docker.com/blog/spring-boot-application-testing-and-development-with-testcontainers/)
+
 ## Integrations
 
 - [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
