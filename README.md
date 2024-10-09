@@ -17,6 +17,13 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 
 
 
+## Integrations
+
+- [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
+
+## Module
+
+
 # Blogs
 
 
