@@ -26,7 +26,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Rust](https://docs.rs/testcontainers/latest/testcontainers/)
 - [Scala](https://github.com/testcontainers/testcontainers-scala/)
 
-## Testcontainers and AI
+## Testcontainers and AI/LLM
 
 - [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
 - [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
@@ -42,6 +42,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Running Testcontainers Tests Using Azure Pipelines](https://www.docker.com/blog/running-testcontainers-tests-using-azure-pipelines/)
 
 ## Testcontainers Cloud
+
 - [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
 
 ## Testcontainers Desktop
