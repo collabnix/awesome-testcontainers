@@ -34,6 +34,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 ## Testcontainers and CI/CD
 
+- [Running Testcontainers Tests on GitLab CI](https://www.docker.com/blog/running-testcontainers-tests-on-gitlab-ci/)
 - [Running Testcontainers Tests on Buildkite](https://www.docker.com/blog/running-testcontainers-tests-on-buildkite/)
 - [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel)
 - [How to Use Testcontainers on Jenkins CI](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
@@ -53,6 +54,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
 
 
+## Blogs
 
-
+- [Testcontainers: Testing with Real Dependencies](https://www.docker.com/blog/testcontainers-testing-with-real-dependencies/)
 
