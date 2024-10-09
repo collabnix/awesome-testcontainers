@@ -38,6 +38,8 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Running Testcontainers Tests on Buildkite](https://www.docker.com/blog/running-testcontainers-tests-on-buildkite/)
 - [Revolutionize Your CI/CD Pipeline: Integrating Testcontainers and Bazel](https://www.docker.com/blog/revolutionize-your-ci-cd-pipeline-integrating-testcontainers-and-bazel)
 - [How to Use Testcontainers on Jenkins CI](https://www.docker.com/blog/how-to-use-testcontainers-on-jenkins-ci/)
+- [Running Testcontainers Tests Using GitHub Actions and Testcontainers Cloud](https://www.docker.com/blog/running-testcontainers-tests-using-github-actions/)
+
 
 ## Testcontainers Cloud
 - [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
@@ -55,6 +57,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 ## Testcontainers and Go
 
 - [Creating Modules in Testcontainers for Go](https://www.docker.com/blog/creating-modules-in-testcontainers-go/)
+- [Local Development of Go Applications with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers/)
 
 ## Testcontainers and Spring 
 
