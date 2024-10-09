@@ -15,12 +15,18 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 # Testcontainers and AI
 
 - [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
-
+- [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
 
 ## Testcontainers Cloud
 
 - [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/)
 
+
+
+## Testcontainers and Kubernetes
+
+- [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
+- 
 
 ## Integrations
 
