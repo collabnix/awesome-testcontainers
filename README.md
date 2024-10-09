@@ -30,6 +30,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 ## Testcontainers and Kubernetes
 
+- [Kindcontainers](https://github.com/dajudge/kindcontainer)
 - [Develop Kubernetes Operators in Java without Breaking a Sweat](https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/)
 - 
 
