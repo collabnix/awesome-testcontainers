@@ -11,3 +11,15 @@ This comprehensive list is maintained by Docker Captain [Ajeet Singh Raina](http
 - Fork, Contribute & Share via [Scout GITHUB Repository](https://github.com/collabnix/docker-scout-community)
 -  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
+
+# Testcontainers and AI
+
+
+
+
+# Blogs
+
+
+## Testcontainers YouTube Videos 
+
+
