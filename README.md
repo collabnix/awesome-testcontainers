@@ -2,7 +2,7 @@
 
 This is a curated list of Testcontainers related resources. It is not an official list, but a community effort to help people find the best stuff for Testcontainers in 2024 and beyond. 
 
-This comprehensive list is maintained by the [Collabnix community](https://collabnix.com). The aim is to highlight the most valuable and relevant resources for Docker Scout users. This could include the latest updates, tools, tutorials, and other materials that the community finds particularly useful.
+This comprehensive list is maintained by the [Collabnix community](https://collabnix.com). The aim is to highlight the most valuable and relevant resources for Testcontainers users. This could include the latest updates, tools, tutorials, and other materials that the community finds particularly useful.
 
 # 📝 Join our Community
 
