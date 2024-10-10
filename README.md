@@ -18,11 +18,11 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 - [PostgreSQL](https://testcontainers.com/modules/postgresql/)
 - [Kindcontainers](https://testcontainers.com/modules/kindcontainer/)
-- [Redpanda](https://testcontainers.com/modules/redpanda/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
-- [WireMock](https://testcontainers.com/modules/wiremock/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
-- [Microcks](https://testcontainers.com/modules/microcks/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
-- [LocalStack](https://testcontainers.com/modules/localstack/?_gl=1*mpexma*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
-- [Neo4j](https://testcontainers.com/modules/neo4j/?_gl=1*mpexma*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
+- [Redpanda](https://testcontainers.com/modules/redpanda/)
+- [WireMock](https://testcontainers.com/modules/wiremock/)
+- [Microcks](https://testcontainers.com/modules/microcks/)
+- [LocalStack](https://testcontainers.com/modules/localstack/)
+- [Neo4j](https://testcontainers.com/modules/neo4j/)
 
 ## [Join Testcontainers Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
 
