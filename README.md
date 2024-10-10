@@ -29,6 +29,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Rust testcontainers Github](https://github.com/testcontainers/testcontainers-rs)
 - [Testcontainers for C/C++/Swift and other native languages](https://testcontainers.github.io/testcontainers-native/)
 
+
 ## Testcontainers and AI/LLM
 
 - [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
@@ -51,6 +52,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 ## Testcontainers Desktop
 
 - [Connecting to Testcontainers Services using Testcontainers Desktop](https://www.docker.com/blog/connecting-to-testcontainers-services-using-testcontainers-desktop/)
+
 
 ## Testcontainers and  C/C++/Swift
 
@@ -103,6 +105,19 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Spock](https://java.testcontainers.org/test_framework_integration/spock/)
 
 
+## Testcontainers and Go
+
+- [Creating Modules in Testcontainers for Go](https://www.docker.com/blog/creating-modules-in-testcontainers-go/)
+- [Local Development of Go Applications with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers/)
+
+## Testcontainers and Spring 
+
+- [Spring Boot Application Testing and Development with Testcontainers](https://www.docker.com/blog/spring-boot-application-testing-and-development-with-testcontainers/)
+
+## Integrations
+
+- [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
+
 
 ## Blogs
 
@@ -112,3 +127,4 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 - [How to use Testcontainers with Spring Boot applications for integration testing](https://bell-sw.com/blog/how-to-use-testcontainers-with-spring-boot-applications-for-integration-testing/)
   
+
