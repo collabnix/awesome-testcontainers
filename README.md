@@ -9,7 +9,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - Join 9900+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
 - Join our [Discord Server](https://discord.gg/QEkCXAXYSe)
 - Fork, Contribute & Share via [Testcontainers GITHUB Repository](https://github.com/collabnix/awesome-testcontainers)
--  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
+- Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
 ## Featured Modules
 
@@ -111,6 +111,22 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [JUnit 4](https://java.testcontainers.org/test_framework_integration/junit_4/)
 - [JUnit 5](https://java.testcontainers.org/test_framework_integration/junit_5/)
 - [Spock](https://java.testcontainers.org/test_framework_integration/spock/)
+
+
+## Testcontainers and Go
+
+- [Creating Modules in Testcontainers for Go](https://www.docker.com/blog/creating-modules-in-testcontainers-go/)
+- [Local Development of Go Applications with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers/)
+
+## Testcontainers and Spring 
+
+- [Spring Boot Application Testing and Development with Testcontainers](https://www.docker.com/blog/spring-boot-application-testing-and-development-with-testcontainers/)
+- [What’s new with Testcontainers in Spring Boot 3.2.0](https://www.atomicjar.com/2023/11/whats-new-with-testcontainers-in-spring-boot-3-2-0/)
+
+## Integrations
+
+- [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
+
 
 ## Blogs
 
