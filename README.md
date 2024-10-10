@@ -4,12 +4,24 @@ This is a curated list of Testcontainers related resources. It is not an officia
 
 This comprehensive list is maintained by the [Collabnix community](https://collabnix.com). The aim is to highlight the most valuable and relevant resources for Testcontainers users. This could include the latest updates, tools, tutorials, and other materials that the community finds particularly useful.
 
-# 📝 Join our Community
+## 📝 Join our Community
 
 - Join 9900+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
 - Join our [Discord Server](https://discord.gg/QEkCXAXYSe)
 - Fork, Contribute & Share via [Testcontainers GITHUB Repository](https://github.com/collabnix/awesome-testcontainers)
 -  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
+
+
+## Featured Modules
+
+- [Kindcontainers](https://testcontainers.com/modules/kindcontainer/)
+- [Redpanda](https://testcontainers.com/modules/redpanda/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
+- [WireMock](https://testcontainers.com/modules/wiremock/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
+- [Microcks](https://testcontainers.com/modules/microcks/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
+- [LocalStack](https://testcontainers.com/modules/localstack/?_gl=1*mpexma*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
+- [Neo4j](https://testcontainers.com/modules/neo4j/?_gl=1*mpexma*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
+
+## [Join Testcontainers Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
 
 
 ## Languages
