@@ -11,7 +11,6 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - Fork, Contribute & Share via [Testcontainers GITHUB Repository](https://github.com/collabnix/awesome-testcontainers)
 -  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
-
 ## Featured Modules
 
 Discover official and community modules from the [Modules Catalog](https://testcontainers.com/modules/), and add your own module to the catalog by submitting a pull request to the [Modules Catalog repository](https://github.com/testcontainers/community-module-registry/).
@@ -25,7 +24,6 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [Neo4j](https://testcontainers.com/modules/neo4j/)
 
 ## [Join Testcontainers Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
-
 
 ## Languages
 
@@ -44,12 +42,10 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [Rust testcontainers Github](https://github.com/testcontainers/testcontainers-rs)
 - [Testcontainers for C/C++/Swift and other native languages](https://testcontainers.github.io/testcontainers-native/)
 
-
 ## Testcontainers and AI/LLM
 
 - [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
 - [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
-
 
 ## Testcontainers and CI/CD
 
@@ -68,7 +64,6 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 - [Connecting to Testcontainers Services using Testcontainers Desktop](https://www.docker.com/blog/connecting-to-testcontainers-services-using-testcontainers-desktop/)
 
-
 ## Testcontainers and C/C++/Swift
 
 - [C/C++/Swift](https://github.com/testcontainers/testcontainers-native)
@@ -81,7 +76,6 @@ Discover official and community modules from the [Modules Catalog](https://testc
 ## Testcontainers and .NET
 
 - [How to Create a Testcontainers for .NET Module for Wider Ecosystem](https://www.docker.com/blog/how-to-create-a-testcontainers-for-net-module-for-wider-ecosystem/)
-
 
 ## Testcontainers and Go
 
@@ -110,7 +104,6 @@ Discover official and community modules from the [Modules Catalog](https://testc
 ## Testcontainers and PHP
 
 - [Testcontainers for PHP](https://opencodeco.github.io/testcontainers-php/)
-  
 
 ## Integrations
 
