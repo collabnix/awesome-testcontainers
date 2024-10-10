@@ -85,15 +85,15 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Creating Modules in Testcontainers for Go](https://www.docker.com/blog/creating-modules-in-testcontainers-go/)
 - [Local Development of Go Applications with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers/)
   
-## Testcontainers and MYSQL
+## Testcontainers and MySQL
 
 - [MySQL Module](https://java.testcontainers.org/modules/databases/mysql/)
 
-## Testcontainers and POSTGRESQL
+## Testcontainers and PostgreSQL
 
 - [POSTGRESQL Module](https://testcontainers.com/modules/postgresql/)
 
- ## Testcontainers and MONGODB
+ ## Testcontainers and MongoDB
 
 - [Mongodb Module](https://java.testcontainers.org/modules/databases/mongodb/)
 
