@@ -9,7 +9,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - Join 9900+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
 - Join our [Discord Server](https://discord.gg/QEkCXAXYSe)
 - Fork, Contribute & Share via [Testcontainers GITHUB Repository](https://github.com/collabnix/awesome-testcontainers)
--  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
+- Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
 
 ## Featured Modules
@@ -46,7 +46,6 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 - [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/)
 - [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
-
 
 ## Testcontainers and CI/CD
 
@@ -125,6 +124,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 ## Testcontainers and Spring 
 
 - [Spring Boot Application Testing and Development with Testcontainers](https://www.docker.com/blog/spring-boot-application-testing-and-development-with-testcontainers/)
+- [What’s new with Testcontainers in Spring Boot 3.2.0](https://www.atomicjar.com/2023/11/whats-new-with-testcontainers-in-spring-boot-3-2-0/)
 
 ## Integrations
 
