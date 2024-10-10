@@ -66,9 +66,9 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Connecting to Testcontainers Services using Testcontainers Desktop](https://www.docker.com/blog/connecting-to-testcontainers-services-using-testcontainers-desktop/)
 
 
-## Testcontainers and  C/C++/Swift
+## Testcontainers and C/C++/Swift
 
-[C/C++/Swift](https://github.com/testcontainers/testcontainers-native)
+- [C/C++/Swift](https://github.com/testcontainers/testcontainers-native)
 
 ## Testcontainers and Kubernetes
 
