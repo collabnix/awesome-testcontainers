@@ -14,7 +14,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 ## Featured Modules
 
-Discover official and community modules from the [Modules Catalog](https://testcontainers.com/modules/).
+Discover official and community modules from the [Modules Catalog](https://testcontainers.com/modules/), and add your own module to the catalog by submitting a pull request to the [Modules Catalog repository](https://github.com/testcontainers/community-module-registry/).
 
 - [Kindcontainers](https://testcontainers.com/modules/kindcontainer/)
 - [Redpanda](https://testcontainers.com/modules/redpanda/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
