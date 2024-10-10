@@ -120,3 +120,15 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [Testcontainers - Integration Testing Using Docker In .NET](https://www.milanjovanovic.tech/blog/testcontainers-integration-testing-using-docker-in-dotnet)
 - [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 - [How to use Testcontainers with Spring Boot applications for integration testing](https://bell-sw.com/blog/how-to-use-testcontainers-with-spring-boot-applications-for-integration-testing/)
+
+# Featured Videos
+
+| Testcontainers have forever changed the way I write tests |Testcontainers – From Zero to Hero. By @MarcoCodes |
+| ------------------------------------------------ | ---------------------------------------------------- |
+| [![TestContainers](https://img.youtube.com/vi/sNg0bnMF_qY/sddefault.jpg)](https://www.youtube.com/watch?v=sNg0bnMF_qY) | [![Testcontainers – From Zero to Hero. By @MarcoCodes](https://img.youtube.com/vi/v3eQCIWLYOw/sddefault.jpg)](https://www.youtube.com/watch?v=v3eQCIWLYOw&pp=ygUOdGVzdGNvbnRhaW5lcnM%3D) |
+
+| Mastering Testcontainers by Oleg Šelajev     | Mastering Testcontainers for Better Integration Tests        |
+| ------------------------------------------------ | -------------------------------------------- |
+| [![Mastering Testcontainers by Oleg Šelajev](https://img.youtube.com/vi/0kXEwo0XFaY/sddefault.jpg)](https://www.youtube.com/watch?v=0kXEwo0XFaY&pp=ygUOdGVzdGNvbnRhaW5lcnM%3D) | [![Mastering Testcontainers for Better Integration Tests](https://img.youtube.com/vi/zfN8m9Dh9cs/sddefault.jpg)](https://www.youtube.com/watch?v=zfN8m9Dh9cs&pp=ygUOdGVzdGNvbnRhaW5lcnM%3D) |
+
+
