@@ -116,21 +116,6 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [JUnit 5](https://java.testcontainers.org/test_framework_integration/junit_5/)
 - [Spock](https://java.testcontainers.org/test_framework_integration/spock/)
 
-
-## Testcontainers and Go
-
-- [Creating Modules in Testcontainers for Go](https://www.docker.com/blog/creating-modules-in-testcontainers-go/)
-- [Local Development of Go Applications with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers/)
-
-## Testcontainers and Spring 
-
-- [Spring Boot Application Testing and Development with Testcontainers](https://www.docker.com/blog/spring-boot-application-testing-and-development-with-testcontainers/)
-
-## Integrations
-
-- [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
-
-
 ## Blogs
 
 - [Testcontainers: Testing with Real Dependencies](https://www.docker.com/blog/testcontainers-testing-with-real-dependencies/)
@@ -138,5 +123,3 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Testcontainers - Integration Testing Using Docker In .NET](https://www.milanjovanovic.tech/blog/testcontainers-integration-testing-using-docker-in-dotnet)
 - [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 - [How to use Testcontainers with Spring Boot applications for integration testing](https://bell-sw.com/blog/how-to-use-testcontainers-with-spring-boot-applications-for-integration-testing/)
-  
-
