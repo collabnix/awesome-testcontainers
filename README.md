@@ -11,18 +11,19 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - Fork, Contribute & Share via [Testcontainers GITHUB Repository](https://github.com/collabnix/awesome-testcontainers)
 - Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
-
 ## Featured Modules
 
+Discover official and community modules from the [Modules Catalog](https://testcontainers.com/modules/), and add your own module to the catalog by submitting a pull request to the [Modules Catalog repository](https://github.com/testcontainers/community-module-registry/).
+
+- [PostgreSQL](https://testcontainers.com/modules/postgresql/)
 - [Kindcontainers](https://testcontainers.com/modules/kindcontainer/)
-- [Redpanda](https://testcontainers.com/modules/redpanda/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
-- [WireMock](https://testcontainers.com/modules/wiremock/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
-- [Microcks](https://testcontainers.com/modules/microcks/?_gl=1*tx5nlv*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
-- [LocalStack](https://testcontainers.com/modules/localstack/?_gl=1*mpexma*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
-- [Neo4j](https://testcontainers.com/modules/neo4j/?_gl=1*mpexma*_up*MQ..*_ga*NDc3OTEzOTU1LjE3Mjg1MzgzNDg.*_ga_22TYV8FBPD*MTcyODUzODM0Ni4xLjEuMTcyODUzODM4OS4wLjAuMA..)
+- [Redpanda](https://testcontainers.com/modules/redpanda/)
+- [WireMock](https://testcontainers.com/modules/wiremock/)
+- [Microcks](https://testcontainers.com/modules/microcks/)
+- [LocalStack](https://testcontainers.com/modules/localstack/)
+- [Neo4j](https://testcontainers.com/modules/neo4j/)
 
 ## [Join Testcontainers Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
-
 
 ## Languages
 
@@ -40,7 +41,6 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Php](https://github.com/testcontainers/testcontainers-php)
 - [Rust testcontainers Github](https://github.com/testcontainers/testcontainers-rs)
 - [Testcontainers for C/C++/Swift and other native languages](https://testcontainers.github.io/testcontainers-native/)
-
 
 ## Testcontainers and AI/LLM
 
@@ -64,7 +64,6 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 - [Connecting to Testcontainers Services using Testcontainers Desktop](https://www.docker.com/blog/connecting-to-testcontainers-services-using-testcontainers-desktop/)
 
-
 ## Testcontainers and C/C++/Swift
 
 - [C/C++/Swift](https://github.com/testcontainers/testcontainers-native)
@@ -78,21 +77,20 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 - [How to Create a Testcontainers for .NET Module for Wider Ecosystem](https://www.docker.com/blog/how-to-create-a-testcontainers-for-net-module-for-wider-ecosystem/)
 
-
 ## Testcontainers and Go
 
 - [Creating Modules in Testcontainers for Go](https://www.docker.com/blog/creating-modules-in-testcontainers-go/)
 - [Local Development of Go Applications with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers/)
   
-## Testcontainers and MYSQL
+## Testcontainers and MySQL
 
 - [MySQL Module](https://java.testcontainers.org/modules/databases/mysql/)
 
-## Testcontainers and POSTGRESQL
+## Testcontainers and PostgreSQL
 
 - [POSTGRESQL Module](https://testcontainers.com/modules/postgresql/)
 
- ## Testcontainers and MONGODB
+ ## Testcontainers and MongoDB
 
 - [Mongodb Module](https://java.testcontainers.org/modules/databases/mongodb/)
 
@@ -106,7 +104,6 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 ## Testcontainers and PHP
 
 - [Testcontainers for PHP](https://opencodeco.github.io/testcontainers-php/)
-  
 
 ## Integrations
 
@@ -138,5 +135,3 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 - [Testcontainers - Integration Testing Using Docker In .NET](https://www.milanjovanovic.tech/blog/testcontainers-integration-testing-using-docker-in-dotnet)
 - [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 - [How to use Testcontainers with Spring Boot applications for integration testing](https://bell-sw.com/blog/how-to-use-testcontainers-with-spring-boot-applications-for-integration-testing/)
-  
-
