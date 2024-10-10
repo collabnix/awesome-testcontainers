@@ -99,7 +99,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [Spring Boot Application Testing and Development with Testcontainers](https://www.docker.com/blog/spring-boot-application-testing-and-development-with-testcontainers/)
 - [Testcontainers](https://docs.spring.io/spring-boot/reference/testing/testcontainers.html)
 - [DB Integration Tests with Spring Boot and Testcontainers](https://www.baeldung.com/spring-boot-testcontainers-integration-test)
-- [Spring Boot Testing with JUnit 5, Mockito & Testcontainers](https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_GammaCatchall_NonP_la.EN_cc.ROW-English&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_169801645584_._ad_700876640599_._kw__._de_c_._dm__._pl__._ti_dsa-1456167871416_._li_1010294_._pd__._&matchtype=&gad_source=1&gclid=Cj0KCQjw05i4BhDiARIsAB_2wfBV3T77cwg6TIJR4WSTJ4gzD3SjWjJj8zeWCVtVouif3tGm017PfYcaAjPOEALw_wcB&couponCode=2021PM25)
+- [Spring Boot Testing with JUnit 5, Mockito & Testcontainers](https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/)
 - [What’s new with Testcontainers in Spring Boot 3.2.0](https://www.atomicjar.com/2023/11/whats-new-with-testcontainers-in-spring-boot-3-2-0/)
 
 ## Testcontainers and PHP
