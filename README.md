@@ -81,7 +81,11 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 - [Creating Modules in Testcontainers for Go](https://www.docker.com/blog/creating-modules-in-testcontainers-go/)
 - [Local Development of Go Applications with Testcontainers](https://www.docker.com/blog/local-development-of-go-applications-with-testcontainers/)
-  
+
+## Testcontainers and PHP
+
+- [Testcontainers for PHP](https://opencodeco.github.io/testcontainers-php/)
+
 ## Testcontainers and MySQL
 
 - [MySQL Module](https://java.testcontainers.org/modules/databases/mysql/)
@@ -101,10 +105,6 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [DB Integration Tests with Spring Boot and Testcontainers](https://www.baeldung.com/spring-boot-testcontainers-integration-test)
 - [Spring Boot Testing with JUnit 5, Mockito & Testcontainers](https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/)
 - [What’s new with Testcontainers in Spring Boot 3.2.0](https://www.atomicjar.com/2023/11/whats-new-with-testcontainers-in-spring-boot-3-2-0/)
-
-## Testcontainers and PHP
-
-- [Testcontainers for PHP](https://opencodeco.github.io/testcontainers-php/)
 
 ## Integrations
 
