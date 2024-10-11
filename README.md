@@ -1,6 +1,5 @@
 ![stars](https://img.shields.io/github/stars/collabnix/awesome-testcontainers)
 ![forks](https://img.shields.io/github/forks/collabnix/awesome-testcontainers)
-![Discord](https://img.shields.io/discord/1020180904129335379)
 ![issues](https://img.shields.io/github/issues/collabnix/awesome-testcontainers)
 ![Twitter](https://img.shields.io/twitter/follow/testcontainers?style=social)
 
