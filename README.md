@@ -27,20 +27,38 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 ## Languages
 
-- [.NET](https://dotnet.testcontainers.org/)
-- [Go](https://golang.testcontainers.org/)
-- [Java](https://java.testcontainers.org/)
-- [Node.js](https://node.testcontainers.org/)
-- [Clojure](https://cljdoc.org/d/clj-test-containers/clj-test-containers/)
-- [Elixir](https://github.com/testcontainers/testcontainers-elixir)
-- [Haskell](https://github.com/testcontainers/testcontainers-hs)
-- [Python](https://testcontainers-python.readthedocs.io/en/latest/)
-- [Ruby](https://github.com/testcontainers/testcontainers-ruby)
-- [Rust](https://docs.rs/testcontainers/latest/testcontainers/)
-- [Scala](https://github.com/testcontainers/testcontainers-scala/)
-- [Php](https://github.com/testcontainers/testcontainers-php)
-- [Rust testcontainers Github](https://github.com/testcontainers/testcontainers-rs)
-- [Testcontainers for C/C++/Swift and other native languages](https://testcontainers.github.io/testcontainers-native/)
+- .NET
+    - [Repository](https://github.com/testcontainers/testcontainers-dotnet)
+    - [Docs](https://dotnet.testcontainers.org/)
+- C/C++/Swift and other native languages
+    - [Repository](https://github.com/testcontainers/testcontainers-native)
+    - [Docs](https://testcontainers.github.io/testcontainers-native/)
+- Clojure
+    - [Repository](https://github.com/testcontainers/testcontainers-clj)
+    - [Docs](https://cljdoc.org/d/clj-test-containers/clj-test-containers/)
+- Elixir
+    - [Repository](https://github.com/testcontainers/testcontainers-elixir)
+- Go
+    - [Repository](https://github.com/testcontainers/testcontainers-go)
+    - [Docs](https://golang.testcontainers.org/)
+- Haskell
+    - [Repository](https://github.com/testcontainers/testcontainers-hs)
+- Java
+    - [Repository](https://github.com/testcontainers/testcontainers-java)
+    - [Docs](https://java.testcontainers.org/)
+- Node
+    - [Repository](https://github.com/testcontainers/testcontainers-node)
+    - [Docs](https://node.testcontainers.org/)
+- PHP
+    - [Repository](https://github.com/testcontainers/testcontainers-php)
+- Python
+    - [Repository](https://github.com/testcontainers/testcontainers-python)
+    - [Docs](https://testcontainers-python.readthedocs.io/en/latest/)
+- Ruby
+    - [Repository](https://github.com/testcontainers/testcontainers-ruby)
+- Rust
+    - [Repository](https://github.com/testcontainers/testcontainers-rs)
+    - [Docs](https://docs.rs/testcontainers/latest/testcontainers/)
 
 ## Testcontainers and AI/LLM
 
