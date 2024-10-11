@@ -41,6 +41,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - Go
     - [Repository](https://github.com/testcontainers/testcontainers-go)
     - [Docs](https://golang.testcontainers.org/)
+    - [Go Docs](https://pkg.go.dev/github.com/testcontainers/testcontainers-go)
 - Haskell
     - [Repository](https://github.com/testcontainers/testcontainers-hs)
 - Java
