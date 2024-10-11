@@ -154,3 +154,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
 | [![Spring Boot 3 Integration Testing With TestContainers Junit 5 ](https://img.youtube.com/vi/Q-0Z6KZF1xM/sddefault.jpg)](https://www.youtube.com/watch?v=Q-0Z6KZF1xM) | [![Test your Go code with Testcontainers](https://img.youtube.com/vi/axhCnAuYohw/sddefault.jpg)](https://www.youtube.com/watch?v=axhCnAuYohw) |
 
 
+## Community
+Find us on [Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
+
+<a href="https://github.com/collabnix/awesome-testcontainers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=collabnix/awesome-testcontainers" />
+</a>
