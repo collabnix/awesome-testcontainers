@@ -132,6 +132,15 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 # Featured Videos
 
+
+| Introduction to Testcontainers   | Run TestContainers in Azure Pipeline      |
+| ------------------------------------------------ | -------------------------------------------- |
+| [![Introduction to Testcontainers ](https://i1.ytimg.com/vi/HUZppOYDoXs/hqdefault.jpg)](https://www.youtube.com/watch?v=HUZppOYDoXs) | [![Run TestContainers in Azure Pipeline](https://img.youtube.com/vi/7bBDOgVK8r4/sddefault.jpg)](https://www.youtube.com/watch?v=7bBDOgVK8r4) |
+
+| Introducing Testcontainers Desktop |Getting Started with Testcontainers for .NET | 
+| ------------------------------------------------ | ---------------------------------------------------- |
+| [![TestContainers Desktop](https://img.youtube.com/vi/uRWKTNbOX-8/sddefault.jpg)](https://www.youtube.com/watch?v=uRWKTNbOX-8) | [![Getting Started with Testcontainers for .NET](https://img.youtube.com/vi/ZLwZ3Cdt9Vs/sddefault.jpg)](https://www.youtube.com/watch?v=ZLwZ3Cdt9Vs) |
+
 | Testcontainers have forever changed the way I write tests |Testcontainers – From Zero to Hero. By @MarcoCodes |
 | ------------------------------------------------ | ---------------------------------------------------- |
 | [![TestContainers](https://img.youtube.com/vi/sNg0bnMF_qY/sddefault.jpg)](https://www.youtube.com/watch?v=sNg0bnMF_qY) | [![Testcontainers – From Zero to Hero. By @MarcoCodes](https://img.youtube.com/vi/v3eQCIWLYOw/sddefault.jpg)](https://www.youtube.com/watch?v=v3eQCIWLYOw&pp=ygUOdGVzdGNvbnRhaW5lcnM%3D) |
@@ -139,5 +148,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
 | Mastering Testcontainers by Oleg Šelajev     | Mastering Testcontainers for Better Integration Tests        |
 | ------------------------------------------------ | -------------------------------------------- |
 | [![Mastering Testcontainers by Oleg Šelajev](https://img.youtube.com/vi/0kXEwo0XFaY/sddefault.jpg)](https://www.youtube.com/watch?v=0kXEwo0XFaY&pp=ygUOdGVzdGNvbnRhaW5lcnM%3D) | [![Mastering Testcontainers for Better Integration Tests](https://img.youtube.com/vi/zfN8m9Dh9cs/sddefault.jpg)](https://www.youtube.com/watch?v=zfN8m9Dh9cs&pp=ygUOdGVzdGNvbnRhaW5lcnM%3D) |
+
+| Spring Boot 3 Integration Testing With TestContainers  Junit 5    | Test your Go code with Testcontainers       |
+| ------------------------------------------------ | -------------------------------------------- |
+| [![Spring Boot 3 Integration Testing With TestContainers Junit 5 ](https://img.youtube.com/vi/Q-0Z6KZF1xM/sddefault.jpg)](https://www.youtube.com/watch?v=Q-0Z6KZF1xM) | [![Test your Go code with Testcontainers](https://img.youtube.com/vi/axhCnAuYohw/sddefault.jpg)](https://www.youtube.com/watch?v=axhCnAuYohw) |
 
 
