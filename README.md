@@ -15,13 +15,15 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 
 Discover official and community modules from the [Modules Catalog](https://testcontainers.com/modules/), and add your own module to the catalog by submitting a pull request to the [Modules Catalog repository](https://github.com/testcontainers/community-module-registry/).
 
-- [PostgreSQL](https://testcontainers.com/modules/postgresql/)
 - [Kindcontainers](https://testcontainers.com/modules/kindcontainer/)
+- [LocalStack](https://testcontainers.com/modules/localstack/)
+- [Microcks](https://testcontainers.com/modules/microcks/)
+- [MongoDB](https://testcontainers.com/modules/mongodb/)
+- [MySQL](https://testcontainers.com/modules/mysql/)
+- [Neo4j](https://testcontainers.com/modules/neo4j/)
+- [PostgreSQL](https://testcontainers.com/modules/postgresql/)
 - [Redpanda](https://testcontainers.com/modules/redpanda/)
 - [WireMock](https://testcontainers.com/modules/wiremock/)
-- [Microcks](https://testcontainers.com/modules/microcks/)
-- [LocalStack](https://testcontainers.com/modules/localstack/)
-- [Neo4j](https://testcontainers.com/modules/neo4j/)
 
 ## [Join Testcontainers Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
 
@@ -85,18 +87,6 @@ Discover official and community modules from the [Modules Catalog](https://testc
 ## Testcontainers and PHP
 
 - [Testcontainers for PHP](https://opencodeco.github.io/testcontainers-php/)
-
-## Testcontainers and MySQL
-
-- [MySQL Module](https://java.testcontainers.org/modules/databases/mysql/)
-
-## Testcontainers and PostgreSQL
-
-- [POSTGRESQL Module](https://testcontainers.com/modules/postgresql/)
-
- ## Testcontainers and MongoDB
-
-- [Mongodb Module](https://java.testcontainers.org/modules/databases/mongodb/)
 
 ## Testcontainers and Spring 
 
