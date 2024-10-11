@@ -1,3 +1,9 @@
+![stars](https://img.shields.io/github/stars/collabnix/awesome-testcontainers)
+![forks](https://img.shields.io/github/forks/collabnix/awesome-testcontainers)
+![issues](https://img.shields.io/github/issues/collabnix/awesome-testcontainers)
+![Twitter](https://img.shields.io/twitter/follow/testcontainers?style=social)
+
+
 # Awesome Testcontainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This is a curated list of Testcontainers related resources. It is not an official list, but a community effort to help people find the best stuff for Testcontainers in 2024 and beyond. 
