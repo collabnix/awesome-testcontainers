@@ -136,6 +136,15 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [Testcontainers - Integration Testing Using Docker In .NET](https://www.milanjovanovic.tech/blog/testcontainers-integration-testing-using-docker-in-dotnet)
 - [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 - [How to use Testcontainers with Spring Boot applications for integration testing](https://bell-sw.com/blog/how-to-use-testcontainers-with-spring-boot-applications-for-integration-testing/)
+- [Test-Driven Development with Python, Testcontainers, and pytest](https://collabnix.com/test-driven-development-with-python-testcontainers-and-pytest/)
+- [Build true-to-production tests with Testcontainers, JUnit and Open Liberty](https://openliberty.io/blog/2024/03/13/testcontainers-guide.html)
+- [Integration tests in .NET with Testcontainers](https://www.production-ready.de/2024/04/27/integration-testing-with-testcontainers-en.html)
+- [
+Testcontainers Best Practices
+](https://www.docker.com/blog/testcontainers-best-practices/)
+- [Improved Testcontainers Support in Spring Boot 3.1](https://spring.io/blog/2023/06/23/improved-testcontainers-support-in-spring-boot-3-1)
+- [INTRODUCTION TO TEST CONTAINERS: THE BEGINNER’S GUIDE](https://medium.com/the-sixt-india-blog/introduction-to-test-containers-the-beginners-guide-dd1760f918a2)
+
 
 ## Developer Stories
 
@@ -164,9 +173,24 @@ Discover official and community modules from the [Modules Catalog](https://testc
 | ------------------------------------------------ | -------------------------------------------- |
 | [![Spring Boot 3 Integration Testing With TestContainers Junit 5 ](https://img.youtube.com/vi/Q-0Z6KZF1xM/sddefault.jpg)](https://www.youtube.com/watch?v=Q-0Z6KZF1xM) | [![Test your Go code with Testcontainers](https://img.youtube.com/vi/axhCnAuYohw/sddefault.jpg)](https://www.youtube.com/watch?v=axhCnAuYohw) |
 
-| Using TestContainers in .NET Core  |
-| ---------------------------------- |
-|[![Using TestContainers in .NET Core](https://img.youtube.com/vi/vy1aIT5Ppj8/sddefault.jpg)](https://www.youtube.com/watch?v=vy1aIT5Ppj8)|
+| Using TestContainers in .NET Core  | Testcontainers Desktop: questions, answers, and more      |
+| ---------------------------------- | ---------------------------------- |
+|[![Using TestContainers in .NET Core](https://img.youtube.com/vi/vy1aIT5Ppj8/sddefault.jpg)](https://www.youtube.com/watch?v=vy1aIT5Ppj8)|[![Testcontainers Desktop: questions, answers, and more](https://img.youtube.com/vi/PcSWI4W5jWY/sddefault.jpg)](https://www.youtube.com/watch?v=PcSWI4W5jWY) |
+
+
+| Creating Realistic Unit Tests with Testcontainers | Clean Test Data for every test with TestContainers 🐳     |
+| ---------------------------------- | ---------------------------------- |
+|[![Creating Realistic Unit Tests with Testcontainers](https://img.youtube.com/vi/sX4s1HqPZcw/sddefault.jpg)](https://www.youtube.com/watch?v=sX4s1HqPZcw)|[![Clean Test Data for every test with TestContainers 🐳](https://img.youtube.com/vi/985jhpv44NU/sddefault.jpg)](https://www.youtube.com/watch?v=985jhpv44NU) |
+
+| Run Selenium Test with TestContainer Cloud ☁️ and TestContainer Desktop 🖥️| Spring Tips: Testcontainers, Docker Compose, and Service Connections, oh my!   |
+| ---------------------------------- | ---------------------------------- |
+|[![Run Selenium Test with TestContainer Cloud ☁️ and TestContainer Desktop 🖥️](https://img.youtube.com/vi/WwiNZZA0q8o/sddefault.jpg)](https://www.youtube.com/watch?v=WwiNZZA0q8o)|[![Spring Tips: Testcontainers, Docker Compose, and Service Connections, oh my!](https://img.youtube.com/vi/msb2b3BeeQo/sddefault.jpg)](https://www.youtube.com/watch?v=msb2b3BeeQo) |
+
+| Using Testcontainers For Testing by Jasper van Zandbeek| Spring Boot 3 Integration Testing With TestContainers  |
+| ---------------------------------- | ---------------------------------- |
+|[![Using Testcontainers For Testing by Jasper van Zandbeek](https://img.youtube.com/vi/EGmMv2JtCEQ/sddefault.jpg)](https://www.youtube.com/watch?v=EGmMv2JtCEQ)|[![Spring Boot 3 Integration Testing With TestContainers](https://img.youtube.com/vi/41Ry2ojnJFM/sddefault.jpg)](https://www.youtube.com/watch?v=41Ry2ojnJFM) |
+
+
 
 ## Community
 Find us on [Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
