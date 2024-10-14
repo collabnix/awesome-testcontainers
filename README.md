@@ -137,6 +137,10 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [How to use Testcontainers with .NET Unit Tests](https://blog.jetbrains.com/dotnet/2023/10/24/how-to-use-testcontainers-with-dotnet-unit-tests/)
 - [How to use Testcontainers with Spring Boot applications for integration testing](https://bell-sw.com/blog/how-to-use-testcontainers-with-spring-boot-applications-for-integration-testing/)
 
+## Developer Stories
+
+- [Our DPE Journey Halved Pre-Merge Build Time](https://dev.henry.jp/entry/dpe-journey)
+
 # Featured Videos
 
 
@@ -160,6 +164,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
 | ------------------------------------------------ | -------------------------------------------- |
 | [![Spring Boot 3 Integration Testing With TestContainers Junit 5 ](https://img.youtube.com/vi/Q-0Z6KZF1xM/sddefault.jpg)](https://www.youtube.com/watch?v=Q-0Z6KZF1xM) | [![Test your Go code with Testcontainers](https://img.youtube.com/vi/axhCnAuYohw/sddefault.jpg)](https://www.youtube.com/watch?v=axhCnAuYohw) |
 
+| Using TestContainers in .NET Core  |
+| ---------------------------------- |
+|[![Using TestContainers in .NET Core](https://img.youtube.com/vi/vy1aIT5Ppj8/sddefault.jpg)](https://www.youtube.com/watch?v=vy1aIT5Ppj8)|
 
 ## Community
 Find us on [Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
