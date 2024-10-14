@@ -27,7 +27,8 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 12. [Testcontainers and Spring](#testcontainers-and-spring)
 13. [Integrations](#integrations)
 14. [Blogs](#blogs)
-15. [Featured Videos](#featured-videos)
+15. [Developer Stories](#developer-stories)
+16. [Featured Videos](#featured-videos)
 16. [Community](#community)
 
 
