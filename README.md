@@ -29,7 +29,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 14. [Blogs](#blogs)
 15. [Developer Stories](#developer-stories)
 16. [Featured Videos](#featured-videos)
-16. [Community](#community)
+17. [Community](#community)
 
 
 ## Featured Modules
