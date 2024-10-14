@@ -10,12 +10,26 @@ This is a curated list of Testcontainers related resources. It is not an officia
 
 This comprehensive list is maintained by the [Collabnix community](https://collabnix.com). The aim is to highlight the most valuable and relevant resources for Testcontainers users. This could include the latest updates, tools, tutorials, and other materials that the community finds particularly useful.
 
-## 📝 Join our Community
+# Table of Contents
 
-- Join 9900+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
-- Join our [Discord Server](https://discord.gg/QEkCXAXYSe)
-- Fork, Contribute & Share via [Testcontainers GITHUB Repository](https://github.com/collabnix/awesome-testcontainers)
-- Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
+
+1. [Featured Modules](#featured-modules)
+2. [Languages](#languages)
+3. [Testcontainers and AI/LLM](#testcontainers-and-aillm)
+4. [Testcontainers and CI/CD](#testcontainers-and-cicd)
+5. [Testcontainers Cloud](#testcontainers-cloud)
+6. [Testcontainers Desktop](#testcontainers-desktop)
+7. [Testcontainers and C/C++/Swift](#testcontainers-and-ccswift)
+8. [Testcontainers and Kubernetes](#testcontainers-and-kubernetes)
+9. [Testcontainers and .NET](#testcontainers-and-net)
+10. [Testcontainers and Go](#testcontainers-and-go)
+11. [Testcontainers and PHP](#testcontainers-and-php)
+12. [Testcontainers and Spring](#testcontainers-and-spring)
+13. [Integrations](#integrations)
+14. [Blogs](#blogs)
+15. [Featured Videos](#featured-videos)
+16. [Community](#community)
+
 
 ## Featured Modules
 
