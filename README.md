@@ -25,11 +25,12 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 10. [Testcontainers and Go](#testcontainers-and-go)
 11. [Testcontainers and PHP](#testcontainers-and-php)
 12. [Testcontainers and Spring](#testcontainers-and-spring)
-13. [Integrations](#integrations)
-14. [Blogs](#blogs)
-15. [Developer Stories](#developer-stories)
-16. [Featured Videos](#featured-videos)
-17. [Community](#community)
+13. [Testcontainers and Playwright](#testcontainers-and-playwright)
+14. [Integrations](#integrations)
+15. [Blogs](#blogs)
+16. [Developer Stories](#developer-stories)
+17. [Featured Videos](#featured-videos)
+18. [Community](#community)
 
 
 ## Featured Modules
@@ -137,6 +138,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [Spring Boot Testing with JUnit 5, Mockito & Testcontainers](https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/)
 - [What’s new with Testcontainers in Spring Boot 3.2.0](https://www.atomicjar.com/2023/11/whats-new-with-testcontainers-in-spring-boot-3-2-0/)
 
+## Testcontainers and Playwright
+ - [testcontainers-playwright](https://github.com/orange-buffalo/testcontainers-playwright)
+
 ## Integrations
 
 - [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/)
@@ -159,6 +163,7 @@ Testcontainers Best Practices
 ](https://www.docker.com/blog/testcontainers-best-practices/)
 - [Improved Testcontainers Support in Spring Boot 3.1](https://spring.io/blog/2023/06/23/improved-testcontainers-support-in-spring-boot-3-1)
 - [INTRODUCTION TO TEST CONTAINERS: THE BEGINNER’S GUIDE](https://medium.com/the-sixt-india-blog/introduction-to-test-containers-the-beginners-guide-dd1760f918a2)
+- [Streamline Browser Automation: 1 Powerful Way with Testcontainers-Playwright](https://collabnix.com/streamline-browser-automation-1-powerful-way-with-testcontainers-playwright/)
 
 
 ## Developer Stories
