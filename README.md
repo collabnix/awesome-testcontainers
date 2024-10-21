@@ -213,7 +213,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 | How to Test RabbitMQ with Testcontainers in .NET | 
 | ---------------------------------- | 
-|[![How to Test RabbitMQ with Testcontainers in .NET](https://github.com/user-attachments/assets/0f3ef42e-65a5-47ed-ab93-9607168ca1fc)]([https://www.youtube.com/watch?v=EGmMv2JtCEQ](https://www.youtube.com/watch?v=DMs3ZuakHGA))
+|[![How to Test RabbitMQ with Testcontainers in .NET](https://github.com/user-attachments/assets/0f3ef42e-65a5-47ed-ab93-9607168ca1fc)](https://www.youtube.com/watch?v=DMs3ZuakHGA)
 
 ## Community
 Find us on [Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
