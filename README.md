@@ -107,6 +107,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 ## Testcontainers Desktop
 
 - [Connecting to Testcontainers Services using Testcontainers Desktop](https://www.docker.com/blog/connecting-to-testcontainers-services-using-testcontainers-desktop/)
+- [Testcontainers Desktop](https://www.baeldung.com/testcontainers-desktop)
 
 ## Testcontainers and C/C++/Swift
 
@@ -137,6 +138,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [DB Integration Tests with Spring Boot and Testcontainers](https://www.baeldung.com/spring-boot-testcontainers-integration-test)
 - [Spring Boot Testing with JUnit 5, Mockito & Testcontainers](https://www.udemy.com/course/testing-spring-boot-application-with-junit-and-mockito/)
 - [What’s new with Testcontainers in Spring Boot 3.2.0](https://www.atomicjar.com/2023/11/whats-new-with-testcontainers-in-spring-boot-3-2-0/)
+- [How to Reuse Testcontainers in Java](https://www.baeldung.com/java-reuse-testcontainers)
 
 ## Testcontainers and Playwright
  - [testcontainers-playwright](https://github.com/orange-buffalo/testcontainers-playwright)
