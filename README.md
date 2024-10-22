@@ -164,7 +164,10 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [Improved Testcontainers Support in Spring Boot 3.1](https://spring.io/blog/2023/06/23/improved-testcontainers-support-in-spring-boot-3-1)
 - [INTRODUCTION TO TEST CONTAINERS: THE BEGINNER’S GUIDE](https://medium.com/the-sixt-india-blog/introduction-to-test-containers-the-beginners-guide-dd1760f918a2)
 - [Streamline Browser Automation: 1 Powerful Way with Testcontainers-Playwright](https://collabnix.com/streamline-browser-automation-1-powerful-way-with-testcontainers-playwright/)
-
+- [Writing Integration Test using Spring AI and Testcontainers](https://medium.com/itnext/part-3-writing-integration-test-using-spring-ai-and-testcontainers-05207bd48ae3)
+- [NestJS Integration Tests with Testcontainers](https://medium.com/javascript-in-plain-english/nestjs-integration-tests-with-test-containers-0fda3264dbb6)
+- [How to create tests for Bigquery integration with tests containers and Spring Boot 3](https://medium.com/@danielarrais.dev/how-to-create-tests-for-bigquery-integration-with-tests-containers-and-spring-boot-3-685afadf5496)
+- [Testing Microservices with Testcontainers](https://manerajona.medium.com/testing-microservices-with-testcontainers-88fe40363bb3)
 
 ## Developer Stories
 
@@ -210,7 +213,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
 | ---------------------------------- | ---------------------------------- |
 |[![Using Testcontainers For Testing by Jasper van Zandbeek](https://img.youtube.com/vi/EGmMv2JtCEQ/sddefault.jpg)](https://www.youtube.com/watch?v=EGmMv2JtCEQ)|[![Spring Boot 3 Integration Testing With TestContainers](https://img.youtube.com/vi/41Ry2ojnJFM/sddefault.jpg)](https://www.youtube.com/watch?v=41Ry2ojnJFM) |
 
-
+| How to Test RabbitMQ with Testcontainers in .NET | 
+| ---------------------------------- | 
+|[![How to Test RabbitMQ with Testcontainers in .NET](https://github.com/user-attachments/assets/0f3ef42e-65a5-47ed-ab93-9607168ca1fc)](https://www.youtube.com/watch?v=DMs3ZuakHGA)
 
 ## Community
 Find us on [Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
