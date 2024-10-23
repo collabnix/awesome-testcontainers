@@ -142,6 +142,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 ## Testcontainers and Playwright
  - [testcontainers-playwright](https://github.com/orange-buffalo/testcontainers-playwright)
+   
+## Testcontainer implementation for Keycloak IAM & SSO
+- [A Testcontainer implementation for Keycloak IAM & SSO](https://github.com/dasniko/testcontainers-keycloak)
 
 ## Integrations
 
@@ -149,6 +152,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [JUnit 4](https://java.testcontainers.org/test_framework_integration/junit_4/)
 - [JUnit 5](https://java.testcontainers.org/test_framework_integration/junit_5/)
 - [Spock](https://java.testcontainers.org/test_framework_integration/spock/)
+- [api-oha-benchmarker](https://github.com/ivangfr/api-oha-benchmarker) ![badge](https://img.shields.io/badge/-new-green)
 
 ## Blogs
 
@@ -168,6 +172,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [NestJS Integration Tests with Testcontainers](https://medium.com/javascript-in-plain-english/nestjs-integration-tests-with-test-containers-0fda3264dbb6)
 - [How to create tests for Bigquery integration with tests containers and Spring Boot 3](https://medium.com/@danielarrais.dev/how-to-create-tests-for-bigquery-integration-with-tests-containers-and-spring-boot-3-685afadf5496)
 - [Testing Microservices with Testcontainers](https://manerajona.medium.com/testing-microservices-with-testcontainers-88fe40363bb3)
+- [Part 3: Writing Integration Test using Spring AI and Testcontainers](https://itnext.io/part-3-writing-integration-test-using-spring-ai-and-testcontainers-05207bd48ae3)
 
 ## Developer Stories
 
