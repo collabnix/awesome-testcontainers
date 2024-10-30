@@ -146,6 +146,16 @@ Discover official and community modules from the [Modules Catalog](https://testc
 ## Testcontainer implementation for Keycloak IAM & SSO
 - [A Testcontainer implementation for Keycloak IAM & SSO](https://github.com/dasniko/testcontainers-keycloak)
 
+  
+## Testcontainer & Jqwik
+- [
+Model-Based Testing with Testcontainers and Jqwik
+](https://www.docker.com/blog/model-based-testing-testcontainers-jqwik/)
+
+## Debug Testcontainers-based services
+- [Set fixed ports to easily debug development services](https://testcontainers.com/desktop/docs/#debug-testcontainers-based-services)
+
+
 ## Integrations
 
 - [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/) ![badge](https://img.shields.io/badge/-new-green) 
@@ -153,6 +163,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [JUnit 5](https://java.testcontainers.org/test_framework_integration/junit_5/)
 - [Spock](https://java.testcontainers.org/test_framework_integration/spock/)
 - [api-oha-benchmarker](https://github.com/ivangfr/api-oha-benchmarker) ![badge](https://img.shields.io/badge/-new-green)
+- [Integration tests on Symfony with Testcontainers](https://blog.redrat.com.br/integration-tests-on-symfony-with-testcontainers)
+- [Testcontainers-Based Load Testing Bench](https://dzone.com/articles/testcontainers-based-load-testing-bench)
+- [Testing the Integration Layer of Your Spring Boot Application with Testcontainers and MockServer](https://igventurelli.io/testing-the-integration-layer-of-your-spring-boot-application-with-testcontainers-and-mockserver/)
 
 ## Blogs
 
@@ -173,6 +186,8 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [How to create tests for Bigquery integration with tests containers and Spring Boot 3](https://medium.com/@danielarrais.dev/how-to-create-tests-for-bigquery-integration-with-tests-containers-and-spring-boot-3-685afadf5496)
 - [Testing Microservices with Testcontainers](https://manerajona.medium.com/testing-microservices-with-testcontainers-88fe40363bb3)
 - [Part 3: Writing Integration Test using Spring AI and Testcontainers](https://itnext.io/part-3-writing-integration-test-using-spring-ai-and-testcontainers-05207bd48ae3)
+- [Testcontainers MongoDB ReplicaSet ](https://dev.to/carc/testcontainers-mongodb-replicaset-4koa )
+- [Writing Tests for Dapper with TestContainers in xUnit](https://blogs.sathiyaraman-m.com/writing-tests-for-dapper-with-testcontainers-in-xunit/)
 
 ## Developer Stories
 
