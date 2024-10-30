@@ -144,7 +144,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
  - [testcontainers-playwright](https://github.com/orange-buffalo/testcontainers-playwright)
    
 ## Testcontainer implementation for Keycloak IAM & SSO
-- [A Testcontainer implementation for Keycloak IAM & SSO](https://github.com/dasniko/testcontainers-keycloak)
+- [A Testcontainer implementation for Keycloak IAM & SSO](https://testcontainers.com/modules/keycloak/)
 
 ## Integrations
 
