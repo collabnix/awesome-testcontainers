@@ -26,11 +26,14 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 11. [Testcontainers and PHP](#testcontainers-and-php)
 12. [Testcontainers and Spring](#testcontainers-and-spring)
 13. [Testcontainers and Playwright](#testcontainers-and-playwright)
-14. [Integrations](#integrations)
-15. [Blogs](#blogs)
-16. [Developer Stories](#developer-stories)
-17. [Featured Videos](#featured-videos)
-18. [Community](#community)
+14. [Testcontainers and AlfrescoLabs](#testcontainers-and-alfrescolabs)
+15. [Testcontainers and Flyway](#testcontainers-and-flyway)
+16. [Testcontainers and Tigerbeetle](#testcontainers-and-tigerbeetle)
+17. [Integrations](#integrations)
+18. [Blogs](#blogs)
+19. [Developer Stories](#developer-stories)
+20. [Featured Videos](#featured-videos)
+21. [Community](#community)
 
 
 ## Featured Modules
@@ -142,7 +145,16 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 ## Testcontainers and Playwright
  - [testcontainers-playwright](https://github.com/orange-buffalo/testcontainers-playwright)
+
+## Testcontainers and AlfrescoLabs
+ - [testcontainers-AlfrescoLabs](https://github.com/AlfrescoLabs/alfresco-testcontainers)
    
+## Testcontainers and Flyway
+ - [testcontainers-Flyway](https://github.com/testcontainers/testcontainers-dotnet/tree/develop/examples/Flyway)
+   
+## Testcontainers and Tigerbeetle 
+ - [testcontainers-Tigerbeetle](https://github.com/mkadirtan/testcontainers-tigerbeetle-go?tab=readme-ov-file)
+
 ## Testcontainer implementation for Keycloak IAM & SSO
 - [A Testcontainer implementation for Keycloak IAM & SSO](https://testcontainers.com/modules/keycloak/)
 
@@ -188,6 +200,7 @@ Model-Based Testing with Testcontainers and Jqwik
 - [Part 3: Writing Integration Test using Spring AI and Testcontainers](https://itnext.io/part-3-writing-integration-test-using-spring-ai-and-testcontainers-05207bd48ae3)
 - [Testcontainers MongoDB ReplicaSet ](https://dev.to/carc/testcontainers-mongodb-replicaset-4koa )
 - [Writing Tests for Dapper with TestContainers in xUnit](https://blogs.sathiyaraman-m.com/writing-tests-for-dapper-with-testcontainers-in-xunit/)
+- [Testcontainers and ASP.NET blog post](https://www.devleader.ca/2024/2/20/testcontainers-in-asp-net-core-a-simplified-beginners-guide)
 
 ## Developer Stories
 
