@@ -201,6 +201,7 @@ Model-Based Testing with Testcontainers and Jqwik
 - [Testcontainers MongoDB ReplicaSet ](https://dev.to/carc/testcontainers-mongodb-replicaset-4koa )
 - [Writing Tests for Dapper with TestContainers in xUnit](https://blogs.sathiyaraman-m.com/writing-tests-for-dapper-with-testcontainers-in-xunit/)
 - [Testcontainers and ASP.NET blog post](https://www.devleader.ca/2024/2/20/testcontainers-in-asp-net-core-a-simplified-beginners-guide)
+- [How to Emulate Real Dependencies in Integration Tests using Testcontainers](https://www.freecodecamp.org/news/integration-tests-using-testcontainers/)
 
 ## Developer Stories
 
