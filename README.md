@@ -205,7 +205,13 @@ Model-Based Testing with Testcontainers and Jqwik
 
 ## Developer Stories
 
-- [Our DPE Journey Halved Pre-Merge Build Time](https://dev.henry.jp/entry/dpe-journey) ![badge](https://img.shields.io/badge/-new-green) 
+- [Our DPE Journey Halved Pre-Merge Build Time](https://dev.henry.jp/entry/dpe-journey) ![badge](https://img.shields.io/badge/-new-green)
+
+## Sample Apps
+
+- [Movie Recommendation System - pgvector + Flyway + Spring](https://github.com/hardikSinghBehl/spring-ai-playground/tree/main/movie-recommendation-system)
+- [A Todo-List Application - Spring + Postgres](https://github.com/shelajev/todo-app)
+- [Link Shortner - Spring WebFlux + Spring Data Redis + TestContainers](https://github.com/spring-academy-legacy/reactive-link-shortener-sample-app)
 
 # Featured Videos
 
