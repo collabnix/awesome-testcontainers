@@ -93,6 +93,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 - [How to Run Hugging Face Models Programmatically Using Ollama and Testcontainers](https://www.docker.com/blog/how-to-run-hugging-face-models-programmatically-using-ollama-and-testcontainers/) ![badge](https://img.shields.io/badge/-new-green) 
 - [A Promising Methodology for Testing GenAI Applications in Java](https://www.docker.com/blog/testing-genai-applications-in-java/)
 - [Generative AI : How to run a LLM with Python — Testcontainers and Ollama](https://towardsdev.com/testing-llms-and-prompts-using-testcontainers-and-ollama-in-python-81e8f7c18be7)
+- [Local AI with Docker's Testcontainers](https://huggingface.co/blog/Tonic/localai-testcontainers)
 
 ## Testcontainers and CI/CD
 
