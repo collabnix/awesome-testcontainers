@@ -107,6 +107,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 ## Testcontainers Cloud
 
 - [Streamlining Local Development with Dev Containers and Testcontainers Cloud](https://www.docker.com/blog/streamlining-local-development-with-dev-containers-and-testcontainers-cloud/) ![badge](https://img.shields.io/badge/-new-green) 
+- [Why Testcontainers Cloud Is a Game-Changer Compared to Docker-in-Docker for Testing Scenarios](https://www.docker.com/blog/testcontainers-cloud-vs-docker-in-docker-for-testing-scenarios/)
 
 ## Testcontainers Desktop
 
