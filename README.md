@@ -29,11 +29,12 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 14. [Testcontainers and AlfrescoLabs](#testcontainers-and-alfrescolabs)
 15. [Testcontainers and Flyway](#testcontainers-and-flyway)
 16. [Testcontainers and Tigerbeetle](#testcontainers-and-tigerbeetle)
-17. [Integrations](#integrations)
-18. [Blogs](#blogs)
-19. [Developer Stories](#developer-stories)
-20. [Featured Videos](#featured-videos)
-21. [Community](#community)
+17. [Testcontainers and Grafana](#testcontainers-and-grafana)
+18. [Integrations](#integrations)
+19. [Blogs](#blogs)
+20. [Developer Stories](#developer-stories)
+21. [Featured Videos](#featured-videos)
+22. [Community](#community)
 
 
 ## Featured Modules
@@ -157,6 +158,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
    
 ## Testcontainers and Tigerbeetle 
  - [testcontainers-Tigerbeetle](https://github.com/mkadirtan/testcontainers-tigerbeetle-go?tab=readme-ov-file)
+
+## Testcontainers and Grafana
+- [testcontainers-Grafana](https://testcontainers.com/modules/grafana/?language=go)
 
 ## Testcontainer implementation for Keycloak IAM & SSO
 - [A Testcontainer implementation for Keycloak IAM & SSO](https://testcontainers.com/modules/keycloak/)
