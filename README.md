@@ -209,6 +209,7 @@ Model-Based Testing with Testcontainers and Jqwik
 - [Writing Tests for Dapper with TestContainers in xUnit](https://blogs.sathiyaraman-m.com/writing-tests-for-dapper-with-testcontainers-in-xunit/)
 - [Testcontainers and ASP.NET blog post](https://www.devleader.ca/2024/2/20/testcontainers-in-asp-net-core-a-simplified-beginners-guide)
 - [How to Emulate Real Dependencies in Integration Tests using Testcontainers](https://www.freecodecamp.org/news/integration-tests-using-testcontainers/)
+- [Spring Boot + Testcontainers Tests at Jet Speed](https://www.sivalabs.in/run-spring-boot-testcontainers-tests-at-jet-speed/)
 
 ## Developer Stories
 
