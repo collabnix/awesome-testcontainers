@@ -136,7 +136,7 @@ Discover official and community modules from the [Modules Catalog](https://testc
 
 ## Testcontainers and PHP
 
-- [Testcontainers for PHP](https://opencodeco.github.io/testcontainers-php/)
+- [Testcontainers for PHP](https://github.com/testcontainers/testcontainers-php)
 
 ## Testcontainers and Spring 
 
