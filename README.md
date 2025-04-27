@@ -162,6 +162,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
 ## Testcontainers and Grafana
 - [testcontainers-Grafana](https://testcontainers.com/modules/grafana/?language=go)
 
+## Testcontainers and LocalStack
+- [Testing cloud applications without breaking the bank: Testcontainers and LocalStack](https://www.ministryoftesting.com/articles/testing-cloud-applications-without-breaking-the-bank-testcontainers-and-localstack)
+
 ## Testcontainer implementation for Keycloak IAM & SSO
 - [A Testcontainer implementation for Keycloak IAM & SSO](https://testcontainers.com/modules/keycloak/)
 
