@@ -30,11 +30,12 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 15. [Testcontainers and Flyway](#testcontainers-and-flyway)
 16. [Testcontainers and Tigerbeetle](#testcontainers-and-tigerbeetle)
 17. [Testcontainers and Grafana](#testcontainers-and-grafana)
-18. [Integrations](#integrations)
-19. [Blogs](#blogs)
-20. [Developer Stories](#developer-stories)
-21. [Featured Videos](#featured-videos)
-22. [Community](#community)
+18. [Testcontainers and LocalStack](#testcontainers-and-localstack)
+19. [Integrations](#integrations)
+20. [Blogs](#blogs)
+21. [Developer Stories](#developer-stories)
+22. [Featured Videos](#featured-videos)
+23. [Community](#community)
 
 
 ## Featured Modules
