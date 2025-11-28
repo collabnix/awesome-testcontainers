@@ -182,6 +182,7 @@ Model-Based Testing with Testcontainers and Jqwik
 
 ## Integrations
 
+- [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Uses Testcontainers to mock external dependencies (databases, APIs, queues) during replay testing.
 - [Leveraging Testcontainers for Complex Integration Testing in Mattermost Plugins](https://www.docker.com/blog/leveraging-testcontainers-for-complex-integration-testing-in-mattermost-plugins/) ![badge](https://img.shields.io/badge/-new-green) 
 - [JUnit 4](https://java.testcontainers.org/test_framework_integration/junit_4/)
 - [JUnit 5](https://java.testcontainers.org/test_framework_integration/junit_5/)
