@@ -270,6 +270,10 @@ Model-Based Testing with Testcontainers and Jqwik
 | ---------------------------------- | 
 |[![How to Test RabbitMQ with Testcontainers in .NET](https://github.com/user-attachments/assets/0f3ef42e-65a5-47ed-ab93-9607168ca1fc)](https://www.youtube.com/watch?v=DMs3ZuakHGA)
 
+| Testing Cloud Applications Without Breaking the Bank: Testcontainers & LocalStack | 
+| ---------------------------------- | 
+|[![Testing Cloud Applications Without Breaking the Bank: Testcontainers & LocalStack](https://fernando-teixeira-personal-storage.s3.eu-central-1.amazonaws.com/HUSTEF_Poster_476x265.png)](https://www.youtube.com/watch?v=paSJ_C0fqzQ)
+
 ## Community
 Find us on [Slack](https://testcontainers.slack.com/join/shared_invite/zt-2mivltr8m-Qz1_A7XMV79kQ8TPqMEIdw#/shared-invite/email)
 
