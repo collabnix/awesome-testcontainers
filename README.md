@@ -36,6 +36,7 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 21. [Developer Stories](#developer-stories)
 22. [Featured Videos](#featured-videos)
 23. [Community](#community)
+- [KubeStellar Console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes management console; test, deploy and manage containerized workloads across multiple Kubernetes clusters with GitOps, observability, and AI-assisted operations.
 
 
 ## Featured Modules
