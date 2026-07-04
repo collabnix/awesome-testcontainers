@@ -157,6 +157,9 @@ Discover official and community modules from the [Modules Catalog](https://testc
    
 ## Testcontainers and Flyway
  - [testcontainers-Flyway](https://github.com/testcontainers/testcontainers-dotnet/tree/develop/examples/Flyway)
+
+## Testcontainers and Liquibase
+- [actual-schema-gradle-plugin](https://github.com/YRashid/actual-schema-gradle-plugin) - Gradle plugin that uses Testcontainers to generate the final PostgreSQL schema.sql from Liquibase migrations.
    
 ## Testcontainers and Tigerbeetle 
  - [testcontainers-Tigerbeetle](https://github.com/mkadirtan/testcontainers-tigerbeetle-go?tab=readme-ov-file)
